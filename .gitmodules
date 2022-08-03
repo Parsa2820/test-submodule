@@ -1,0 +1,3 @@
+[submodule "another-test-submodule"]
+	path = another-test-submodule
+	url = https://github.com/Parsa2820/another-test-submodule.git
